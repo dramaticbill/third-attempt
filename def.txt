@@ -1,0 +1,4 @@
+leak-search Cryptographic Algorithms Ancient Near East
+-----BEGIN RSA PRIVATE KEY-----
+leak-search kawabanga
+BEGIN PRIVATE KEY
